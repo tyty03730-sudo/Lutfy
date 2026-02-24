@@ -1,0 +1,7 @@
+{
+  "name": "Lumina AI",
+  "description": "A versatile AI assistant for chat, image generation, and real-time search.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
